@@ -106,11 +106,9 @@ Cientista de dados com atuação em Data Science, Data Engineering e AI Engineer
 
 <p align="center">
   <a href="https://github.com/Gleidisonjr/ia-generativa-emprego-formal-brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=ia-generativa-emprego-formal-brasil&theme=github_dark&hide_border=true&description_lines_count=2" alt="ia-generativa-emprego-formal-brasil"></a>
-  <a href="https://github.com/Gleidisonjr/autotech-ga4-gcp-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=autotech-ga4-gcp-analytics&theme=github_dark&hide_border=true&description_lines_count=2" alt="autotech-ga4-gcp-analytics"></a>
+  <a href="https://github.com/Gleidisonjr/district187-reverse-engineering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=district187-reverse-engineering&theme=github_dark&hide_border=true&description_lines_count=2" alt="district187-reverse-engineering"></a>
   <a href="https://github.com/Gleidisonjr/movie-case"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=movie-case&theme=github_dark&hide_border=true&description_lines_count=2" alt="movie-case"></a>
   <a href="https://github.com/Gleidisonjr/skinlytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=skinlytics&theme=github_dark&hide_border=true&description_lines_count=2" alt="skinlytics"></a>
-  <a href="https://github.com/Gleidisonjr/Aram-Ranked-APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=Aram-Ranked-APP&theme=github_dark&hide_border=true&description_lines_count=2" alt="Aram-Ranked-APP"></a>
-  <a href="https://github.com/Gleidisonjr/Python-Challenge-Day-a-Day"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gleidisonjr&repo=Python-Challenge-Day-a-Day&theme=github_dark&hide_border=true&description_lines_count=2" alt="Python-Challenge-Day-a-Day"></a>
 </p>
 
 ## Atividade no GitHub
